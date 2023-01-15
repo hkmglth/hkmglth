@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/hkmglth" target="blank"><img src="https://img.shields.io/twitter/follow/hkmglth?logo=twitter&style=for-the-badge" alt="hkmglth" /></a> </p>
 
-- 🌱 I’m currently learning **Redux, Cypress, .Net**
+- 🌱 I’m currently learning **Redux, Cypress, Nodejs, Express**
 
 - 💬 Ask me about **Cross-Platform development**
 
