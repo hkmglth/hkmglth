@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkmglth" alt="hkmglth" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hkmglth" target="blank"><img src="https://img.shields.io/twitter/follow/hkmglth?logo=twitter&style=for-the-badge" alt="hkmglth" /></a> </p>
+<p align="center"> <a href="https://twitter.com/hkmglth" target="blank"><img src="https://img.shields.io/twitter/follow/hkmglth?logo=twitter&style=for-the-badge" alt="hkmglth" /></a> </p>
 
 - 🌱 I’m currently learning **Redux, Cypress, Nodejs, Express, MongoDB**
 
